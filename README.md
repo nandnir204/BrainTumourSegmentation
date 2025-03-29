@@ -74,7 +74,7 @@ pip install numpy pandas torch torchvision segmentation-models-pytorch opencv-py
 
 Here is an example of the model’s predictions on a sample image:
 
-![Predicted Segmentation Mask](outputs/segmentation_images.png)
+![Predicted Segmentation Mask](output/segmentation_images.png)
 
 ## Contact
 For any queries, reach out to [Nandini Rajoria] at nandinirajoria204@gmail.com.
